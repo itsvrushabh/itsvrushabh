@@ -1,3 +1,8 @@
+![Banner](./banner/alpha.png)
+![Banner](./banner/beta.png)
+![Banner](./banner/charly.png)
+![Banner](./banner/delta.png)
+
 # 👋 Hey, I'm Vrushabh
 
 **Backend Developer | API Designer | Rust & Python Enthusiast**
