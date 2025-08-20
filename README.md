@@ -53,6 +53,10 @@ I’m passionate about building scalable, fast, and reliable backend systems. Wh
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:itsvrushabh@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://itsvrushabh.dev)
 
----
+## 🐍 GitHub Contribution Snake
 
-> ⚡ Fun Fact: I love building backend systems that *just work* — fast, fault-tolerant, and future-proof.
+![Snake animation](https://github.com/itsvrushabh/itsvrushabh/blob/output/github-contribution-grid-snake.svg)
+
+![Snake dark](https://github.com/itsvrushabh/itsvrushabh/blob/output/github-contribution-grid-snake-dark.svg)
+
+---> ⚡ Fun Fact: I love building backend systems that *just work* — fast, fault-tolerant, and future-proof.
