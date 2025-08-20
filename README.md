@@ -1,37 +1,53 @@
-# 👋 Hi, I'm Vrushabh Deshmukh
+# 👋 Hey, I'm Vrushabh
 
-**Backend Developer | Frontend Developer | Open Source Enthusiast | Tech Blogger**
+**Backend Developer | API Designer | Rust & Python Enthusiast**
 
-🌱 Currently learning: Python and Postgres
-🔭 Working on: My personal finance tracker app
-💬 Ask me about: JavaScript, React, or freelancing in tech
-📫 How to reach me: itsvrushabh@gmail.com
-🌐 Portfolio: [itsvrushabh.dev](https://itsvrushabh.dev)
+I’m passionate about building scalable, fast, and reliable backend systems. Whether it’s designing clean REST APIs, optimizing databases, or deploying services with Docker — I enjoy working across the stack to deliver solid backend solutions.
+
+- 🔧 Working with **FastAPI**, **Rust**, **PostgreSQL**, **MongoDB**, and **Redis**
+- 🌱 Currently learning: Advanced Rust and distributed systems design
+- 🧪 Obsessed with performance, clean code, and system architecture
+- 🌍 Website: [itsvrushabh.dev](https://itsvrushabh.dev)
+- 📬 Contact: [itsvrushabh@gmail.com](mailto:itsvrushabh@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+## ⚙️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+- [🧰 **FastAPI Template**](https://github.com/itsvrushabh/fastapi-template) – Production-ready FastAPI template with Docker, PostgreSQL, and Redis
+- [🔐 **Rust Auth Server**](https://github.com/itsvrushabh/rust-auth-server) – JWT-based authentication microservice in Rust
+- [📦 **Microservice Boilerplate**](https://github.com/itsvrushabh/microservice-boilerplate) – Scalable backend starter using Python, Redis, and Docker
+- [🌐 **itsvrushabh.dev**](https://itsvrushabh.dev) – My personal portfolio built with React & deployed on Netlify
 
 ---
 
 ## 📈 GitHub Stats
 
-![Vrushabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsvrushabh&show_icons=true&theme=radical)
+![itsvrushabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsvrushabh&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvrushabh&layout=compact&theme=tokyonight)
 
 ---
 
-## 📂 Featured Projects
+## 🌐 Let's Connect
 
-- [🚀 Portfolio Website](https://github.com/itsvrushabh/portfolio)
-- [📊 Expense Tracker App](https://github.com/itsvrushabh/expense-tracker)
-- [🧪 Testing Starter Kit](https://github.com/itsvrushabh/testing-starter)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/itsvrushabh)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:itsvrushabh@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://itsvrushabh.dev)
 
 ---
 
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsvrushabh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/itsvrushabh)
+> ⚡ Fun Fact: I love building backend systems that *just work* — fast, fault-tolerant, and future-proof.
