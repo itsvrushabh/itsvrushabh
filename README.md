@@ -1,7 +1,4 @@
 ![Banner](./banner/alpha.png)
-![Banner](./banner/beta.png)
-![Banner](./banner/charly.png)
-![Banner](./banner/delta.png)
 
 # 👋 Hey, I'm Vrushabh
 
@@ -59,4 +56,4 @@ I’m passionate about building scalable, fast, and reliable backend systems. Wh
 
 ![Snake dark](https://github.com/itsvrushabh/itsvrushabh/blob/output/github-contribution-grid-snake-dark.svg)
 
----> ⚡ Fun Fact: I love building backend systems that *just work* — fast, fault-tolerant, and future-proof.
+> ⚡ Fun Fact: I love building backend systems that *just work* — fast, fault-tolerant, and future-proof.
