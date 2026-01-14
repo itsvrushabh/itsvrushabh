@@ -50,15 +50,6 @@
 
 ---
 
-<div align="center">
-  <h2>📈 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=itsvrushabh&show_icons=true&theme=tokyonight" alt="Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvrushabh&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
-
----
-
 <br />
 
 > ⚡ Fun Fact: I love building backend systems that *just work* — fast, fault-tolerant, and future-proof.
