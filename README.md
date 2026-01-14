@@ -38,6 +38,9 @@ I’m passionate about building scalable, fast, and reliable backend systems. Wh
 
 ## 📈 GitHub Stats
 
+![itsvrushabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsvrushabh&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvrushabh&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🌐 Let's Connect
@@ -46,4 +49,9 @@ I’m passionate about building scalable, fast, and reliable backend systems. Wh
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:itsvrushabh@gmail.com)
 
 ## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/github-contribution-grid-snake.svg)
+![Snake dark](https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/github-contribution-grid-snake-dark.svg)
+
+> ⚡ Fun Fact: I love building backend systems that *just work* — fast, fault-tolerant, and future-proof.
 
