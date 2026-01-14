@@ -49,6 +49,10 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsvrushabh&theme=tokyonight&no-bg=true&margin-w=4" alt="github trophies" /></a>
+</p>
+
   
   <img src="https://github-readme-stats.vercel.app/api?username=itsvrushabh&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvrushabh&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
@@ -59,6 +63,11 @@
 </div>
 
 ---
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsvrushabh&theme=tokyonight" alt="Activity Graph" />
+</div>
 
 ## 🚀 Featured Projects
 
@@ -185,7 +194,12 @@ Last updated: Jan 14, 2026
 
 
 <div align="center">
-  <h2>🤝 Connect with me</h2>
+  
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+</div>
+
+<h2>🤝 Connect with me</h2>
   
   <a href="https://github.com/itsvrushabh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:itsvrushabh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
