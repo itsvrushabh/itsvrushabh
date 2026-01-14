@@ -9,7 +9,6 @@ I’m passionate about building scalable, fast, and reliable backend systems. Wh
 - 🔧 Working with **FastAPI**, **Rust**, **PostgreSQL**, **MongoDB**, and **Redis**
 - 🌱 Currently learning: Advanced Rust and distributed systems design
 - 🧪 Obsessed with performance, clean code, and system architecture
-- 🌍 Website: [itsvrushabh.dev](https://itsvrushabh.dev)
 - 📬 Contact: [itsvrushabh@gmail.com](mailto:itsvrushabh@gmail.com)
 
 ---
@@ -30,9 +29,7 @@ I’m passionate about building scalable, fast, and reliable backend systems. Wh
 ## 🚀 Projects
 
 - [🧰 **FastAPI Template**](https://github.com/itsvrushabh/fastapi-template) – Production-ready FastAPI template with Docker, PostgreSQL, and Redis
-- [🔐 **Rust Auth Server**](https://github.com/itsvrushabh/rust-auth-server) – JWT-based authentication microservice in Rust
-- [📦 **Microservice Boilerplate**](https://github.com/itsvrushabh/microservice-boilerplate) – Scalable backend starter using Python, Redis, and Docker
-- [🌐 **itsvrushabh.dev**](https://itsvrushabh.dev) – My personal portfolio built with React & deployed on Netlify
+
 
 ---
 
@@ -48,12 +45,11 @@ I’m passionate about building scalable, fast, and reliable backend systems. Wh
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/itsvrushabh)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:itsvrushabh@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://itsvrushabh.dev)
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/itsvrushabh/itsvrushabh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/github-contribution-grid-snake.svg)
 
-![Snake dark](https://github.com/itsvrushabh/itsvrushabh/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake dark](https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/github-contribution-grid-snake-dark.svg)
 
 > ⚡ Fun Fact: I love building backend systems that *just work* — fast, fault-tolerant, and future-proof.
