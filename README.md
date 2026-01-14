@@ -2,11 +2,11 @@
 
 # 👋 Hey, I'm Vrushabh
 
-**Backend Developer | API Designer | Rust & Python Enthusiast**
+**Backend Developer | API Designer | Rust Enthusiast**
 
 I’m passionate about building scalable, fast, and reliable backend systems. Whether it’s designing clean REST APIs, optimizing databases, or deploying services with Docker — I enjoy working across the stack to deliver solid backend solutions.
 
-- 🔧 Working with **FastAPI**, **Rust**, **PostgreSQL**, **MongoDB**, and **Redis**
+- 🔧 Working with **RestAPI**, **Rust**, **PostgreSQL**, **MongoDB**, and **Redis**
 - 🌱 Currently learning: Advanced Rust and distributed systems design
 - 🧪 Obsessed with performance, clean code, and system architecture
 
@@ -38,10 +38,6 @@ I’m passionate about building scalable, fast, and reliable backend systems. Wh
 
 ## 📈 GitHub Stats
 
-![itsvrushabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsvrushabh&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvrushabh&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🌐 Let's Connect
@@ -51,8 +47,3 @@ I’m passionate about building scalable, fast, and reliable backend systems. Wh
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/github-contribution-grid-snake.svg)
-
-![Snake dark](https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/github-contribution-grid-snake-dark.svg)
-
-> ⚡ Fun Fact: I love building backend systems that *just work* — fast, fault-tolerant, and future-proof.
