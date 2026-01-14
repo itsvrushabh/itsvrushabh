@@ -1,30 +1,44 @@
-![Banner](./banner/alpha.png)
+<div align="center">
+  <img src="./banner/alpha.png" alt="Banner" />
 
-# 👋 Hey, I'm Vrushabh
+  # 👋 Hey, I'm Vrushabh
 
-**Backend Developer | API Designer | Rust Enthusiast**
+  **Backend Developer | API Designer | Rust Enthusiast**
 
-I’m passionate about building scalable, fast, and reliable backend systems. Whether it’s designing clean REST APIs, optimizing databases, or deploying services with Docker — I enjoy working across the stack to deliver solid backend solutions.
+  I’m passionate about building scalable, fast, and reliable backend systems. Whether it’s designing clean REST APIs, optimizing databases, or deploying services with Docker — I enjoy working across the stack to deliver solid backend solutions.
 
-- 🔧 Working with **RestAPI**, **Rust**, **PostgreSQL**, **MongoDB**, and **Redis**
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/itsvrushabh)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:itsvrushabh@gmail.com)
+</div>
+
+<br />
+
+- 🔧 Working with **Rust**, **Python**, **PostgreSQL**, **MongoDB**, and **Redis**
 - 🌱 Currently learning: Advanced Rust and distributed systems design
 - 🧪 Obsessed with performance, clean code, and system architecture
 
 ---
 
-## ⚙️ Tech Stack
+<div align="center">
+  <h2>⚙️ Tech Stack</h2>
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat&logo=tokio&logoColor=white)
+  <h3>Languages & Frameworks</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Tokio-000000?style=flat&logo=tokio&logoColor=white" alt="Tokio" />
 
-### Databases & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  <h3>Databases & Infrastructure</h3>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+
+  <h3>Tools</h3>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</div>
 
 ---
 
@@ -36,18 +50,22 @@ I’m passionate about building scalable, fast, and reliable backend systems. Wh
 
 ---
 
-## 📈 GitHub Stats
-
+<div align="center">
+  <h2>📈 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsvrushabh&show_icons=true&theme=tokyonight" alt="Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvrushabh&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
 
 ---
 
-## 🌐 Let's Connect
+<div align="center">
+  <h2>🐍 GitHub Contribution Snake</h2>
+  <img src="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <br />
+  <img src="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/github-contribution-grid-snake-dark.svg" alt="Snake Dark" />
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/itsvrushabh)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:itsvrushabh@gmail.com)
-
-## 🐍 GitHub Contribution Snake
-
+<br />
 
 > ⚡ Fun Fact: I love building backend systems that *just work* — fast, fault-tolerant, and future-proof.
-
