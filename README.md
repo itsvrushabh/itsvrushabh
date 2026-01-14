@@ -91,36 +91,20 @@
 
 Last updated: Jan 14, 2026
 
+### 🎯 Dart
+
+| Repository | Description | Stars |
+|------------|-------------|-------|
+| [ente_local_without_s3](https://github.com/itsvrushabh/ente_local_without_s3) | 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets. (Fork) | 0 |
+
 ### 🐍 Python
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [-ionIdea_python_assignment](https://github.com/itsvrushabh/-ionIdea_python_assignment) | - | 0 |
-| [apache_django_docker](https://github.com/itsvrushabh/apache_django_docker) | docker compose file | 0 |
-| [ApiInterface-Model-MS](https://github.com/itsvrushabh/ApiInterface-Model-MS) | - | 0 |
-| [app1](https://github.com/itsvrushabh/app1) | django sample with jinja2 templating and UI design | 0 |
-| [app2](https://github.com/itsvrushabh/app2) | - | 0 |
-| [app4](https://github.com/itsvrushabh/app4) | sample test the git commands | 0 |
-| [appapi](https://github.com/itsvrushabh/appapi) | - | 0 |
-| [async-flask-sqlalchemy-example](https://github.com/itsvrushabh/async-flask-sqlalchemy-example) | - | 0 |
-| [blood_dm](https://github.com/itsvrushabh/blood_dm) | - | 0 |
-| [bookstore](https://github.com/itsvrushabh/bookstore) | - | 0 |
-| [ChatBotDemo](https://github.com/itsvrushabh/ChatBotDemo) | - | 0 |
-| [datastream-example](https://github.com/itsvrushabh/datastream-example) | - | 0 |
-| [django-paginator-api-example](https://github.com/itsvrushabh/django-paginator-api-example) | - | 0 |
-| [djangoserver](https://github.com/itsvrushabh/djangoserver) | - | 0 |
-| [dockerizing-django](https://github.com/itsvrushabh/dockerizing-django) | - | 0 |
 | [fastapi-template](https://github.com/itsvrushabh/fastapi-template) | boiler plate for fastapi | 0 |
-| [flask-app](https://github.com/itsvrushabh/flask-app) | - | 0 |
-| [generic_templates](https://github.com/itsvrushabh/generic_templates) | - | 0 |
-| [login_test_shewww](https://github.com/itsvrushabh/login_test_shewww) | - | 0 |
-| [md_django](https://github.com/itsvrushabh/md_django) | - | 0 |
-| [middleware_app1](https://github.com/itsvrushabh/middleware_app1) | - | 0 |
 | [python-patterns](https://github.com/itsvrushabh/python-patterns) | - | 0 |
-| [simple-django-login](https://github.com/itsvrushabh/simple-django-login) | - | 0 |
 | [snowflake-sqlalchemy](https://github.com/itsvrushabh/snowflake-sqlalchemy) | Snowflake SQLAlchemy (Fork) | 0 |
 | [Tasker](https://github.com/itsvrushabh/Tasker) | - | 0 |
-| [tornado_app](https://github.com/itsvrushabh/tornado_app) | - | 0 |
 
 ### 🦀 Rust
 
@@ -137,25 +121,6 @@ Last updated: Jan 14, 2026
 |------------|-------------|-------|
 | [linux](https://github.com/itsvrushabh/linux) | Linux kernel source tree (Fork) | 0 |
 
-### 🎯 Dart
-
-| Repository | Description | Stars |
-|------------|-------------|-------|
-| [ente_local_without_s3](https://github.com/itsvrushabh/ente_local_without_s3) | 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets. (Fork) | 0 |
-
-### 📂 Dockerfile
-
-| Repository | Description | Stars |
-|------------|-------------|-------|
-| [data_sci_pre](https://github.com/itsvrushabh/data_sci_pre) | - | 0 |
-
-### 💛 JavaScript
-
-| Repository | Description | Stars |
-|------------|-------------|-------|
-| [demo_site](https://github.com/itsvrushabh/demo_site) | - | 0 |
-| [front-end-heroku](https://github.com/itsvrushabh/front-end-heroku) | testing the heroku in ng & tsc | 0 |
-
 ### 🌙 Lua
 
 | Repository | Description | Stars |
@@ -166,18 +131,13 @@ Last updated: Jan 14, 2026
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [app5](https://github.com/itsvrushabh/app5) | - | 0 |
-| [dbs_query](https://github.com/itsvrushabh/dbs_query) | - | 0 |
-| [git_omv](https://github.com/itsvrushabh/git_omv) | Backup the compose files and other data | 0 |
 | [itsvrushabh](https://github.com/itsvrushabh/itsvrushabh) | - | 0 |
-| [test](https://github.com/itsvrushabh/test) | just checking for free | 0 |
 | [textfsm](https://github.com/itsvrushabh/textfsm) | Create the textfsm crate for rust | 0 |
 
 ### 🐚 Shell
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [jupyter-notebook-docker-compose](https://github.com/itsvrushabh/jupyter-notebook-docker-compose) | A docker-compose file for launching Jupyter Notebooks in a container. (Fork) | 0 |
 | [rabbitmq-cluster](https://github.com/itsvrushabh/rabbitmq-cluster) | ha proxy with three node | 0 |
 
 ### 📂 Web (HTML/CSS)
@@ -185,7 +145,6 @@ Last updated: Jan 14, 2026
 | Repository | Description | Stars |
 |------------|-------------|-------|
 | [FTracker](https://github.com/itsvrushabh/FTracker) | Finance Budget Tracker | 0 |
-| [usecasesample](https://github.com/itsvrushabh/usecasesample) | - | 0 |
 
 </details>
 ---
@@ -194,12 +153,9 @@ Last updated: Jan 14, 2026
 
 
 <div align="center">
-  
-<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
-</div>
 
-<h2>🤝 Connect with me</h2>
+  <h2>🤝 Connect with me</h2>
   
   <a href="https://github.com/itsvrushabh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:itsvrushabh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
