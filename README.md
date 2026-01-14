@@ -59,13 +59,6 @@
 
 ---
 
-<div align="center">
-  <h2>🐍 GitHub Contribution Snake</h2>
-  <img src="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/github-contribution-grid-snake.svg" alt="Snake" />
-  <br />
-  <img src="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/github-contribution-grid-snake-dark.svg" alt="Snake Dark" />
-</div>
-
 <br />
 
 > ⚡ Fun Fact: I love building backend systems that *just work* — fast, fault-tolerant, and future-proof.
