@@ -1,4 +1,8 @@
 <div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsvrushabh&label=Profile%20views&color=0e75b6&style=flat" alt="itsvrushabh" />
+</p>
+
   <img src="./banner/alpha.png" alt="Banner" />
 
   # 👋 Hey, I'm Vrushabh
@@ -55,36 +59,28 @@
 </div>
 
 ---
-## 🚀 Projects
 
-- [🧰 **FastAPI Template**](https://github.com/itsvrushabh/fastapi-template) – Production-ready FastAPI template with Docker, PostgreSQL, and Redis
-- [☁️ **Ente Local**](https://github.com/itsvrushabh/ente_local_without_s3) – End-to-end encrypted cloud storage setup without S3 dependency
-- [💰 **FTracker**](https://github.com/itsvrushabh/FTracker) – Finance and budget tracking application
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [🧰 **FastAPI Template**](https://github.com/itsvrushabh/fastapi-template) | Production-ready FastAPI template | `Python`, `PostgreSQL`, `Redis`, `Docker` |
+| [☁️ **Ente Local**](https://github.com/itsvrushabh/ente_local_without_s3) | E2E encrypted cloud storage (No S3) | `Dart`, `Go`, `Docker` |
+| [💰 **FTracker**](https://github.com/itsvrushabh/FTracker) | Personal Finance & Budget Tracking | `HTML`, `CSS`, `JS`, `Python` |
+
+</div>
+
 
 ---
 
 ## 📚 Repository Index
 
-A complete list of my repositories, categorized by primary language.
+<details>
+<summary><b>Click to expand full repository list</b></summary>
 
-### 🎯 Dart
-
-| Repository | Description | Stars |
-|------------|-------------|-------|
-| [ente_local_without_s3](https://github.com/itsvrushabh/ente_local_without_s3) | 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets. | 0 |
-
-### 🐹 Go
-
-| Repository | Description | Stars |
-|------------|-------------|-------|
-| [flannel](https://github.com/itsvrushabh/flannel) | flannel is a network fabric for containers, designed for Kubernetes | 0 |
-
-### 💛 JavaScript
-
-| Repository | Description | Stars |
-|------------|-------------|-------|
-| [demo_site](https://github.com/itsvrushabh/demo_site) | - | 0 |
-| [front-end-heroku](https://github.com/itsvrushabh/front-end-heroku) | testing the heroku in ng & tsc | 0 |
+Last updated: Jan 14, 2026
 
 ### 🐍 Python
 
@@ -103,7 +99,6 @@ A complete list of my repositories, categorized by primary language.
 | [ChatBotDemo](https://github.com/itsvrushabh/ChatBotDemo) | - | 0 |
 | [datastream-example](https://github.com/itsvrushabh/datastream-example) | - | 0 |
 | [django-paginator-api-example](https://github.com/itsvrushabh/django-paginator-api-example) | - | 0 |
-| [DJANGO_UPGRADE](https://github.com/itsvrushabh/DJANGO_UPGRADE) | - | 0 |
 | [djangoserver](https://github.com/itsvrushabh/djangoserver) | - | 0 |
 | [dockerizing-django](https://github.com/itsvrushabh/dockerizing-django) | - | 0 |
 | [fastapi-template](https://github.com/itsvrushabh/fastapi-template) | boiler plate for fastapi | 0 |
@@ -112,19 +107,10 @@ A complete list of my repositories, categorized by primary language.
 | [login_test_shewww](https://github.com/itsvrushabh/login_test_shewww) | - | 0 |
 | [md_django](https://github.com/itsvrushabh/md_django) | - | 0 |
 | [middleware_app1](https://github.com/itsvrushabh/middleware_app1) | - | 0 |
-| [netmiko](https://github.com/itsvrushabh/netmiko) | Multi-vendor library to simplify Paramiko SSH connections to network devices | 0 |
-| [ntc-templates](https://github.com/itsvrushabh/ntc-templates) | TextFSM templates for parsing show commands of network devices | 0 |
-| [PSPT](https://github.com/itsvrushabh/PSPT) | Hey, repo, let's duplicate and conquer the coding universe together | 0 |
-| [pyats_test](https://github.com/itsvrushabh/pyats_test) | - | 0 |
 | [python-patterns](https://github.com/itsvrushabh/python-patterns) | - | 0 |
-| [rest_service_server](https://github.com/itsvrushabh/rest_service_server) | - | 0 |
-| [SampleXlsCsv](https://github.com/itsvrushabh/SampleXlsCsv) | - | 0 |
 | [simple-django-login](https://github.com/itsvrushabh/simple-django-login) | - | 0 |
-| [snowflake-sqlalchemy](https://github.com/itsvrushabh/snowflake-sqlalchemy) | Snowflake SQLAlchemy | 0 |
-| [t_rex](https://github.com/itsvrushabh/t_rex) | - | 0 |
+| [snowflake-sqlalchemy](https://github.com/itsvrushabh/snowflake-sqlalchemy) | Snowflake SQLAlchemy (Fork) | 0 |
 | [Tasker](https://github.com/itsvrushabh/Tasker) | - | 0 |
-| [test1](https://github.com/itsvrushabh/test1) | - | 0 |
-| [test_1](https://github.com/itsvrushabh/test_1) | test code | 0 |
 | [tornado_app](https://github.com/itsvrushabh/tornado_app) | - | 0 |
 
 ### 🦀 Rust
@@ -133,27 +119,33 @@ A complete list of my repositories, categorized by primary language.
 |------------|-------------|-------|
 | [hello-axum](https://github.com/itsvrushabh/hello-axum) | - | 0 |
 | [hello-rocket](https://github.com/itsvrushabh/hello-rocket) | - | 0 |
-| [personal_cv](https://github.com/itsvrushabh/personal_cv) | - | 0 |
-| [textfsm-rs](https://github.com/itsvrushabh/textfsm-rs) | An experiment in implementing TextFSM in Rust | 0 |
+| [textfsm-rs](https://github.com/itsvrushabh/textfsm-rs) | An experiment in implementing TextFSM in Rust (Fork) | 0 |
 | [textfsm-templates](https://github.com/itsvrushabh/textfsm-templates) | Test the templates | 0 |
-
-### 💙 TypeScript
-
-| Repository | Description | Stars |
-|------------|-------------|-------|
-| [ui_server_angular](https://github.com/itsvrushabh/ui_server_angular) | - | 0 |
 
 ### 🇨 C
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [linux](https://github.com/itsvrushabh/linux) | Linux kernel source tree | 0 |
+| [linux](https://github.com/itsvrushabh/linux) | Linux kernel source tree (Fork) | 0 |
+
+### 🎯 Dart
+
+| Repository | Description | Stars |
+|------------|-------------|-------|
+| [ente_local_without_s3](https://github.com/itsvrushabh/ente_local_without_s3) | 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets. (Fork) | 0 |
 
 ### 📂 Dockerfile
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
 | [data_sci_pre](https://github.com/itsvrushabh/data_sci_pre) | - | 0 |
+
+### 💛 JavaScript
+
+| Repository | Description | Stars |
+|------------|-------------|-------|
+| [demo_site](https://github.com/itsvrushabh/demo_site) | - | 0 |
+| [front-end-heroku](https://github.com/itsvrushabh/front-end-heroku) | testing the heroku in ng & tsc | 0 |
 
 ### 🌙 Lua
 
@@ -169,24 +161,14 @@ A complete list of my repositories, categorized by primary language.
 | [dbs_query](https://github.com/itsvrushabh/dbs_query) | - | 0 |
 | [git_omv](https://github.com/itsvrushabh/git_omv) | Backup the compose files and other data | 0 |
 | [itsvrushabh](https://github.com/itsvrushabh/itsvrushabh) | - | 0 |
-| [personal_blog](https://github.com/itsvrushabh/personal_blog) | - | 0 |
-| [sbi_data_in_csv](https://github.com/itsvrushabh/sbi_data_in_csv) | - | 0 |
-| [SBI_electroral_bond_compare](https://github.com/itsvrushabh/SBI_electroral_bond_compare) | - | 0 |
 | [test](https://github.com/itsvrushabh/test) | just checking for free | 0 |
-| [test_delete](https://github.com/itsvrushabh/test_delete) | - | 0 |
 | [textfsm](https://github.com/itsvrushabh/textfsm) | Create the textfsm crate for rust | 0 |
-
-### 🐘 PHP
-
-| Repository | Description | Stars |
-|------------|-------------|-------|
-| [MafiaCrimes](https://github.com/itsvrushabh/MafiaCrimes) | MafiaCrimes is the game about MOBS | 0 |
 
 ### 🐚 Shell
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [jupyter-notebook-docker-compose](https://github.com/itsvrushabh/jupyter-notebook-docker-compose) | A docker-compose file for launching Jupyter Notebooks in a container. | 0 |
+| [jupyter-notebook-docker-compose](https://github.com/itsvrushabh/jupyter-notebook-docker-compose) | A docker-compose file for launching Jupyter Notebooks in a container. (Fork) | 0 |
 | [rabbitmq-cluster](https://github.com/itsvrushabh/rabbitmq-cluster) | ha proxy with three node | 0 |
 
 ### 📂 Web (HTML/CSS)
@@ -194,12 +176,21 @@ A complete list of my repositories, categorized by primary language.
 | Repository | Description | Stars |
 |------------|-------------|-------|
 | [FTracker](https://github.com/itsvrushabh/FTracker) | Finance Budget Tracker | 0 |
-| [StudentPortal](https://github.com/itsvrushabh/StudentPortal) | - | 0 |
 | [usecasesample](https://github.com/itsvrushabh/usecasesample) | - | 0 |
 
-
+</details>
 ---
 
 <br />
 
+
+<div align="center">
+  <h2>🤝 Connect with me</h2>
+  
+  <a href="https://github.com/itsvrushabh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:itsvrushabh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/itsvrushabh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
+
+---
 > ⚡ Fun Fact: I love building backend systems that *just work* — fast, fault-tolerant, and future-proof.
