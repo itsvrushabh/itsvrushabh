@@ -54,7 +54,7 @@
 </p>
 
   
-  <img src="https://github-readme-stats.vercel.app/api?username=itsvrushabh&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsvrushabh&show_icons=true&theme=tokyonight&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvrushabh&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
   
   <br />
