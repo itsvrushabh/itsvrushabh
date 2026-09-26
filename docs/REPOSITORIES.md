@@ -6,9 +6,9 @@
     <img src="https://github.com/itsvrushabh/itsvrushabh/actions/workflows/update-repositories.yml/badge.svg" alt="Update Repositories Catalog Status" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Repositories-17-7aa2f7?style=flat-square&logo=github&logoColor=white" alt="Total Repositories" />
+  <img src="https://img.shields.io/badge/Repositories-18-7aa2f7?style=flat-square&logo=github&logoColor=white" alt="Total Repositories" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Original_Projects-12-9ece6a?style=flat-square" alt="Original Projects" />
+  <img src="https://img.shields.io/badge/Original_Projects-13-9ece6a?style=flat-square" alt="Original Projects" />
   &nbsp;
   <img src="https://img.shields.io/badge/Forks_5-bb9af7?style=flat-square" alt="Forks" />
   &nbsp;
@@ -39,6 +39,7 @@ A dynamically synchronized directory of open-source projects, experiments, dotfi
 | [**laya_demo**](https://github.com/itsvrushabh/laya_demo) | Python data pipeline exploration and algorithmic testbed. | Data Processing, Prototyping | `Python` |
 | [**snowflake-sqlalchemy**](https://github.com/itsvrushabh/snowflake-sqlalchemy) <sub>*(Fork)*</sub> | Snowflake database dialect extensions and connection pooling optimizations. | Database Dialects, SQLAlchemy, Cloud Data | `Python` |
 | [**todo**](https://github.com/itsvrushabh/todo) | Minimalist task tracking backend service and CLI interface. | CLI, CRUD, Python | `Python` |
+| [**itsvrushabh.github.io**](https://github.com/itsvrushabh/itsvrushabh.github.io) | Open source project. | Python | `Python` |
 
 ---
 
@@ -84,6 +85,6 @@ A dynamically synchronized directory of open-source projects, experiments, dotfi
 
 ---
 
-[← Documentation Index](./index.md) · [GitHub Profile Overview](../README.md)
+[← Back to Profile Overview](../README.md)
 
 <!-- END_REPOSITORIES_CATALOG -->
