@@ -43,3 +43,79 @@ I focus on building scalable, reliable, and high-performance backend systems. Pa
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+### 🕹️ Arcade & Contribution Games
+
+<p align="left">
+  <i>A collection of retro arcade games running directly across my GitHub contribution grid:</i>
+</p>
+
+#### 🐍 Snake Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<br />
+
+<details>
+  <summary><b>👻 Pac-Man Arcade</b> (click to expand)</summary>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/pacman-contribution-graph.svg" />
+    <img alt="GitHub Contribution Pac-Man Animation" src="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/pacman-contribution-graph-dark.svg" width="100%" />
+  </picture>
+</details>
+
+<br />
+
+<details>
+  <summary><b>🧱 Breakout Brick Breaker</b> (click to expand)</summary>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/breakout-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/breakout-contribution-graph.svg" />
+    <img alt="GitHub Contribution Breakout Animation" src="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/breakout-contribution-graph-dark.svg" width="100%" />
+  </picture>
+</details>
+
+<br />
+
+<details>
+  <summary><b>💣 Bomberman Grid Blast</b> (click to expand)</summary>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/bomberman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/bomberman-contribution-graph.svg" />
+    <img alt="GitHub Contribution Bomberman Animation" src="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/bomberman-contribution-graph-dark.svg" width="100%" />
+  </picture>
+</details>
+
+<br />
+
+#### 🎮 Quick Play Retro Games
+<p align="left">
+  <a href="https://playsnake.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Play-Snake-2ecc71?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Play Snake" />
+  </a>
+  &nbsp;
+  <a href="https://freepacman.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Play-Pac--Man-f1c40f?style=for-the-badge&logo=retroarch&logoColor=black" alt="Play Pac-Man" />
+  </a>
+  &nbsp;
+  <a href="https://play2048.co/" target="_blank">
+    <img src="https://img.shields.io/badge/Play-2048-e67e22?style=for-the-badge&logo=google-play&logoColor=white" alt="Play 2048" />
+  </a>
+  &nbsp;
+  <a href="https://tetris.com/play-tetris" target="_blank">
+    <img src="https://img.shields.io/badge/Play-Tetris-e74c3c?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="Play Tetris" />
+  </a>
+  &nbsp;
+  <a href="https://chromedino.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Play-Chrome_Dino-34495e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Play Chrome Dino" />
+  </a>
+</p>
