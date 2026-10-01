@@ -59,41 +59,26 @@ I focus on building scalable, reliable, and high-performance backend systems. Pa
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-<br />
+#### 👻 Pac-Man Arcade
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/pacman-contribution-graph.svg" />
+  <img alt="GitHub Contribution Pac-Man Animation" src="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/pacman-contribution-graph-dark.svg" width="100%" />
+</picture>
 
-<details>
-  <summary><b>👻 Pac-Man Arcade</b> (click to expand)</summary>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/pacman-contribution-graph.svg" />
-    <img alt="GitHub Contribution Pac-Man Animation" src="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/pacman-contribution-graph-dark.svg" width="100%" />
-  </picture>
-</details>
+#### 🧱 Breakout Brick Breaker
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/breakout-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/breakout-contribution-graph.svg" />
+  <img alt="GitHub Contribution Breakout Animation" src="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/breakout-contribution-graph-dark.svg" width="100%" />
+</picture>
 
-<br />
-
-<details>
-  <summary><b>🧱 Breakout Brick Breaker</b> (click to expand)</summary>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/breakout-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/breakout-contribution-graph.svg" />
-    <img alt="GitHub Contribution Breakout Animation" src="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/breakout-contribution-graph-dark.svg" width="100%" />
-  </picture>
-</details>
-
-<br />
-
-<details>
-  <summary><b>💣 Bomberman Grid Blast</b> (click to expand)</summary>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/bomberman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/bomberman-contribution-graph.svg" />
-    <img alt="GitHub Contribution Bomberman Animation" src="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/bomberman-contribution-graph-dark.svg" width="100%" />
-  </picture>
-</details>
+#### 💣 Bomberman Grid Blast
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/bomberman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/bomberman-contribution-graph.svg" />
+  <img alt="GitHub Contribution Bomberman Animation" src="https://raw.githubusercontent.com/itsvrushabh/itsvrushabh/output/bomberman-contribution-graph-dark.svg" width="100%" />
+</picture>
 
 <br />
 
