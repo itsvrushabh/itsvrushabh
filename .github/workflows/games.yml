@@ -1,0 +1,60 @@
+name: Daily Games Update Bot
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC (midnight)
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/games.yml"
+
+jobs:
+  update-games:
+    name: Generate & Deploy Games
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js runtime
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate Snake Game (Light & Dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Arcade Games (Pac-Man, Breakout, Bomberman)
+        run: |
+          mkdir -p dist
+          npx --yes pacman-contribution-graph --game pacman --platform scenario --scenario random --username ${{ github.repository_owner }} --gameTheme github -o dist/pacman-contribution-graph.svg
+          npx --yes pacman-contribution-graph --game pacman --platform scenario --scenario random --username ${{ github.repository_owner }} --gameTheme github-dark -o dist/pacman-contribution-graph-dark.svg
+          npx --yes pacman-contribution-graph --game breakout --platform scenario --scenario random --username ${{ github.repository_owner }} --gameTheme github -o dist/breakout-contribution-graph.svg
+          npx --yes pacman-contribution-graph --game breakout --platform scenario --scenario random --username ${{ github.repository_owner }} --gameTheme github-dark -o dist/breakout-contribution-graph-dark.svg
+          npx --yes pacman-contribution-graph --game bomberman --platform scenario --scenario random --username ${{ github.repository_owner }} --gameTheme github -o dist/bomberman-contribution-graph.svg
+          npx --yes pacman-contribution-graph --game bomberman --platform scenario --scenario random --username ${{ github.repository_owner }} --gameTheme github-dark -o dist/bomberman-contribution-graph-dark.svg
+
+      - name: Deploy SVGs to output branch as Bot
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore(bot): update contribution games [skip ci]"
+          author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          committer: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
